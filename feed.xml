@@ -28,5 +28,14 @@
       <itunes:duration>00:36:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>You Have NO IDEA Who You Really Are… The Secret of Lech Lecha!</title>
+      <description>You Have NO IDEA Who You Really Are… The Secret of Lech Lecha!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-pinchastaylor/You%20Have%20NO%20IDEA%20Who%20You%20Really%20Are%E2%80%A6%20The%20Secret%20of%20Lech%20Lecha%21.mp3" length="14215029" type="audio/mpeg"/>
+      <guid isPermaLink="false">You Have NO IDEA Who You Really Are… The Secret of Lech Lecha!.mp3</guid>
+      <pubDate>Wed, 21 Oct 2026 13:30:13 -0000</pubDate>
+      <itunes:duration>00:21:21</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
