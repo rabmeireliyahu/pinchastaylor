@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Rabbi Pinchas Taylor</title>
+    <description>Torah portions, lectures and deep thoughts on faith, Moshiach and Jewish life from Rabbi Pinchas Taylor. Otzar HaTorah.</description>
+    <link>https://rabmeireliyahu.github.io/pinchastaylor</link>
+    <language>en</language>
+    <itunes:author>Rabbi Pinchas Taylor</itunes:author>
+    <itunes:owner><itunes:name>Rabbi Pinchas Taylor</itunes:name><itunes:email>rabmeireliyahu@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://rabmeireliyahu.github.io/pinchastaylor/portada.jpg"/>
+    <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+  </channel>
+</rss>
