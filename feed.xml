@@ -55,5 +55,14 @@
       <itunes:duration>00:21:21</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>You’re Looking for G‑d in the Wrong Places ｜ Parshas Vayeira</title>
+      <description>You’re Looking for G‑d in the Wrong Places ｜ Parshas Vayeira</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-pinchastaylor/You%E2%80%99re%20Looking%20for%20G%E2%80%91d%20in%20the%20Wrong%20Places%20%EF%BD%9C%20Parshas%20Vayeira.mp3" length="19235445" type="audio/mpeg"/>
+      <guid isPermaLink="false">You’re Looking for G‑d in the Wrong Places ｜ Parshas Vayeira.mp3</guid>
+      <pubDate>Wed, 28 Oct 2026 06:30:31 -0000</pubDate>
+      <itunes:duration>00:27:49</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
