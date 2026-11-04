@@ -10,5 +10,14 @@
     <itunes:image href="https://rabmeireliyahu.github.io/pinchastaylor/portada.jpg"/>
     <itunes:category text="Religion &amp; Spirituality"><itunes:category text="Judaism"/></itunes:category>
     <itunes:explicit>false</itunes:explicit>
-  </channel>
+      <item>
+      <title>Noah, the Technology Revolution, and an Ancient  Messianic Prophecy!</title>
+      <description>Noah, the Technology Revolution, and an Ancient  Messianic Prophecy!</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-pinchastaylor/Noah%2C%20the%20Technology%20Revolution%2C%20and%20an%20Ancient%20%20Messianic%20Prophecy%21.mp3" length="22494357" type="audio/mpeg"/>
+      <guid isPermaLink="false">Noah, the Technology Revolution, and an Ancient  Messianic Prophecy!.mp3</guid>
+      <pubDate>Wed, 14 Oct 2026 11:00:05 -0000</pubDate>
+      <itunes:duration>00:36:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+</channel>
 </rss>
