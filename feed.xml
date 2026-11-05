@@ -334,5 +334,14 @@
       <itunes:duration>00:27:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+    <item>
+      <title>Abraham, Islam, World Religions, and the Messianic Era ｜ Chayei Sarah</title>
+      <description>Abraham, Islam, World Religions, and the Messianic Era ｜ Chayei Sarah</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-pinchastaylor/Abraham%2C%20Islam%2C%20World%20Religions%2C%20and%20the%20Messianic%20Era%20%EF%BD%9C%20Chayei%20Sarah.mp3" length="14550660" type="audio/mpeg"/>
+      <guid isPermaLink="false">Abraham, Islam, World Religions, and the Messianic Era ｜ Chayei Sarah.mp3</guid>
+      <pubDate>Wed, 04 Nov 2026 07:00:03 -0000</pubDate>
+      <itunes:duration>00:22:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
 </channel>
 </rss>
