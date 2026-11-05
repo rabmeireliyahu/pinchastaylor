@@ -65,6 +65,15 @@
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
+      <title>The Mystery of Music</title>
+      <description>The Mystery of Music</description>
+      <enclosure url="https://op3.dev/e/https://archive.org/download/rab-pinchastaylor/The%20Mystery%20of%20Music.mp3" length="21166833" type="audio/mpeg"/>
+      <guid isPermaLink="false">The Mystery of Music.mp3</guid>
+      <pubDate>Wed, 20 Jul 2016 11:19:51 -0000</pubDate>
+      <itunes:duration>00:40:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
       <title>Jews and Thanksgiving</title>
       <description>Jews and Thanksgiving</description>
       <enclosure url="https://op3.dev/e/https://archive.org/download/rab-pinchastaylor/Jews%20and%20Thanksgiving.mp3" length="20833567" type="audio/mpeg"/>
